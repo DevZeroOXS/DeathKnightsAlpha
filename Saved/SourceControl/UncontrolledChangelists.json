@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Games/DeathKnights/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"D:/Games/DeathKnights/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset",
+				"D:/Games/DeathKnights/Content/FirstPerson/Maps/MainMenu.umap",
+				"D:/Games/DeathKnights/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/Games/DeathKnights/Content/MCO_Mocap_Basics/Overview.umap",
+				"D:/Games/DeathKnights/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"D:/Games/DeathKnights/Content/StarterContent/Maps/StarterMap.umap",
+				"D:/Games/DeathKnights/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
+				"D:/Games/DeathKnights/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Games/DeathKnights/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/Games/DeathKnights/Content/StarterContent/Maps/Advanced_Lighting.umap",
+				"D:/Games/DeathKnights/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Games/DeathKnights/Content/StarterContent/Blueprints/BP_LightStudio.uasset",
+				"D:/Games/DeathKnights/Content/Underground/Maps/UB_BuiltData.uasset",
+				"D:/Games/DeathKnights/Content/Underground/Maps/Overview_Assets_BuiltData.uasset",
+				"D:/Games/DeathKnights/Content/Underground/Maps/Overview_Assets.umap",
+				"D:/Games/DeathKnights/Content/Underground/Maps/Main_Level_BuiltData.uasset",
+				"D:/Games/DeathKnights/Content/Underground/Maps/Main_Level.umap",
+				"D:/Games/DeathKnights/Content/Underground/Maps/Light_Level_BuiltData.uasset",
+				"D:/Games/DeathKnights/Content/Underground/Maps/Light_Level.umap",
+				"D:/Games/DeathKnights/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"D:/Games/DeathKnights/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/NC/UHXF766HJVF7M983DDZCXU.uasset"
+			]
+		}
+	]
+}
